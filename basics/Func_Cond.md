@@ -70,8 +70,7 @@ or
 
 
 
-
-In this section you learned that:
+Summary: Processing User Input
 
     A Python program can get user input via the input function:
 
